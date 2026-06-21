@@ -51,7 +51,6 @@ deltachi = np.asarray(deltachi).reshape(-1)
 kappa = np.asarray(kappa).reshape(-1)
 chieff = np.asarray(chieff).reshape(-1)
 
-# Wanrou-style quadrant colors and aligned indicators.
 quadrants = [
     (
         "up-up",
